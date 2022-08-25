@@ -1,7 +1,3 @@
-﻿//{{NO_DEPENDENCIES}}
-// Microsoft Visual C++ 生成的包含文件。
-// 供 PSYSTEM.rc 使用
-//
 #define PSYSTEM_VER                     1
 #define IDC_MYICON                      2
 #define IDD_PSYSTEMGUI_DIALOG           102
