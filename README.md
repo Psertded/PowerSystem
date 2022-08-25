@@ -1,0 +1,14 @@
+# Power System
+
+> - I'm a student :D
+
+Power System is a <b>simple</b> system to do some file manipulation, *fun* stuff, <b>play music</b>, etc.
+
+This program is extremely simple (probably because I'm just a C++ student :D), and at the same time simple.
+
+Note: This program uses [EasyX](https://easyx.cn) as the graphics library, and this README is translated with [Google Translate](https://translate.google.cn/).
+
+My Bilibili [homepage](https://space.bilibili.com/600523682)(Chinese video)
+
+---
+Lastet version:2.6.3
