@@ -1,0 +1,126 @@
+﻿  system.cpp
+D:\Power Studio\system\Power System Insider\defined.h(22,1): warning C4005: “S_OK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(30688): message : 参见“S_OK”的前一个定义
+D:\Power Studio\system\Power System Insider\defined.h(33,1): warning C4005: “no”: 宏重定义
+D:\Power Studio\system\Power System Insider\defined.h(30): message : 参见“no”的前一个定义
+D:\Power Studio\system\Power System Insider\defined.h(45,1): warning C4005: “KEY_DOWN”: 宏重定义
+D:\Power Studio\system\Power System Insider\runtime\HiEasyX\HiWindow.h(721): message : 参见“KEY_DOWN”的前一个定义
+D:\Power Studio\system\Power System Insider\settings.h(57,2): warning C4091: “typedef ”: 没有声明变量时忽略“SettingList”的左侧
+D:\Power Studio\system\Power System Insider\settings.h(67,33): warning C4244: “=”: 从“__int64”转换到“unsigned short”，可能丢失数据
+D:\Power Studio\system\Power System Insider\settings.h(68,33): warning C4244: “=”: 从“__int64”转换到“char”，可能丢失数据
+D:\Power Studio\system\Power System Insider\settings.h(75,33): warning C4244: “=”: 从“__int64”转换到“unsigned short”，可能丢失数据
+D:\Power Studio\system\Power System Insider\settings.h(76,33): warning C4244: “=”: 从“__int64”转换到“char”，可能丢失数据
+D:\Power Studio\system\Power System Insider\media\sound.h(113,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Power Studio\system\Power System Insider\media\sound.h(121,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Power Studio\system\Power System Insider\media\sound.h(56,9): warning C4101: “p”: 未引用的局部变量
+D:\Power Studio\system\Power System Insider\base64.h(19,50): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\Power Studio\system\Power System Insider\lan\urldown.h(49,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Power Studio\system\Power System Insider\lan\urldown.h(51,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Power Studio\system\Power System Insider\lan\urldown.h(59,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Power Studio\system\Power System Insider\lan\urldown.h(61,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Power Studio\system\Power System Insider\startui.h(47,2): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Power Studio\system\Power System Insider\startui.h(54,7): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Power Studio\system\Power System Insider\startui.h(59,8): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Power Studio\system\Power System Insider\startui.h(98,2): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Power Studio\system\Power System Insider\startui.h(41,8): warning C4101: “_imgbuf”: 未引用的局部变量
+D:\Power Studio\system\Power System Insider\structs.h(94,6): warning C4552: ”+“: 未使用表达式结果
+D:\Power Studio\system\Power System Insider\structs.h(98,6): warning C4552: ”/“: 未使用表达式结果
+D:\Power Studio\system\Power System Insider\structs.h(102,5): warning C4552: ”*“: 未使用表达式结果
+D:\Power Studio\system\Power System Insider\structs.h(106,6): warning C4552: ”/“: 未使用表达式结果
+D:\Power Studio\system\Power System Insider\structs.h(191,6): warning C4552: ”+“: 未使用表达式结果
+D:\Power Studio\system\Power System Insider\structs.h(195,6): warning C4552: ”/“: 未使用表达式结果
+D:\Power Studio\system\Power System Insider\structs.h(199,5): warning C4552: ”*“: 未使用表达式结果
+D:\Power Studio\system\Power System Insider\structs.h(203,6): warning C4552: ”/“: 未使用表达式结果
+D:\Power Studio\system\Power System Insider\structs.h(286,10): warning C4244: “参数”: 从“unsigned __int64”转换到“DWORD”，可能丢失数据
+D:\Power Studio\system\Power System Insider\structs.h(321,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Power Studio\system\Power System Insider\structs.h(323,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Power Studio\system\Power System Insider\structs.h(324,10): warning C4244: “参数”: 从“unsigned __int64”转换到“DWORD”，可能丢失数据
+D:\Power Studio\system\Power System Insider\structs.h(327,12): warning C4244: “参数”: 从“unsigned __int64”转换到“DWORD”，可能丢失数据
+D:\Power Studio\system\Power System Insider\structs.h(315,4): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+D:\Power Studio\system\Power System Insider\controls.h(147,13): warning C4244: “return”: 从“double”转换到“ULONGLONG”，可能丢失数据
+D:\Power Studio\system\Power System Insider\guide\refresh.h(150,29): warning C4267: “参数”: 从“size_t”转换到“UINT”，可能丢失数据
+D:\Power Studio\system\Power System Insider\guide\refresh.h(151,28): warning C4267: “参数”: 从“size_t”转换到“PID”，可能丢失数据
+D:\Power Studio\system\Power System Insider\guide\refresh.h(152,2): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\Power Studio\system\Power System Insider\controls.h(515,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Power Studio\system\Power System Insider\controls.h(516,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Power Studio\system\Power System Insider\controls.h(595,21): warning C4244: “参数”: 从“const _Elem”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Elem=wchar_t
+          ]
+          and
+          [
+              _Ty=char
+          ]
+D:\Power Studio\system\Power System Insider\controls.h(602,22): warning C4244: “参数”: 从“const _Elem”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Elem=wchar_t
+          ]
+          and
+          [
+              _Ty=char
+          ]
+D:\Power Studio\system\Power System Insider\controls.h(613,38): warning C4244: “参数”: 从“const _Elem”转换到“char”，可能丢失数据
+          with
+          [
+              _Elem=wchar_t
+          ]
+D:\Power Studio\system\Power System Insider\controls.h(618,22): warning C4244: “参数”: 从“const _Elem”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Elem=wchar_t
+          ]
+          and
+          [
+              _Ty=char
+          ]
+D:\Power Studio\system\Power System Insider\controls.h(678,6): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Power Studio\system\Power System Insider\controls.h(700,7): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Power Studio\system\Power System Insider\controls.h(701,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Power Studio\system\Power System Insider\docommand.h(219,13): warning C4244: “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\Power Studio\system\Power System Insider\docommand.h(314,17): warning C4477: “scanf”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 1 拥有了类型“wchar_t *”
+D:\Power Studio\system\Power System Insider\docommand.h(314,17): message : 请考虑在格式字符串中使用“%lc”
+D:\Power Studio\system\Power System Insider\docommand.h(314,17): message : 请考虑在格式字符串中使用“%llc”
+D:\Power Studio\system\Power System Insider\docommand.h(314,17): message : 请考虑在格式字符串中使用“%Lc”
+D:\Power Studio\system\Power System Insider\docommand.h(314,17): message : 请考虑在格式字符串中使用“%wc”
+D:\Power Studio\system\Power System Insider\docommand.h(562,22): warning C4018: “<=”: 有符号/无符号不匹配
+D:\Power Studio\system\Power System Insider\docommand.h(564,23): warning C4018: “<=”: 有符号/无符号不匹配
+D:\Power Studio\system\Power System Insider\docommand.h(587,21): warning C4312: “类型强制转换”: 从“int”转换到更大的“HWND”
+D:\Power Studio\system\Power System Insider\docommand.h(588,21): warning C4312: “类型强制转换”: 从“int”转换到更大的“HWND”
+D:\Power Studio\system\Power System Insider\docommand.h(314,11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Power Studio\system\Power System Insider\docommand.h(361,11): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Power Studio\system\Power System Insider\docommand.h(362,4): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+D:\Power Studio\system\Power System Insider\docommand.h(434,18): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Power Studio\system\Power System Insider\docommand.h(298,10): warning C4101: “lines”: 未引用的局部变量
+D:\Power Studio\system\Power System Insider\system.cpp(419,15): warning C4102: “systembaseboot”: 未引用的标签
+D:\Power Studio\system\Power System Insider\system.cpp(366,6): warning C4101: “process”: 未引用的局部变量
+  HiCanvas.cpp
+  HiContainer.cpp
+  HiDrawingProperty.cpp
+  HiFPS.cpp
+  HiFunc.cpp
+  HiGif.cpp
+  Button.cpp
+  ControlBase.cpp
+  Page.cpp
+  ProgressCtrl.cpp
+  ScrollBar.cpp
+  Static.cpp
+  HiIcon.cpp
+  HiMouseDrag.cpp
+  HiMusicMCI.cpp
+  HiStart.cpp
+  SysButton.cpp
+  SysCheckBox.cpp
+  SysComboBox.cpp
+  正在生成代码...
+  正在编译...
+  SysControlBase.cpp
+  SysEdit.cpp
+  SysGroup.cpp
+  SysGroupBox.cpp
+  SysRadioButton.cpp
+  SysStatic.cpp
+  HiWindow.cpp
+  正在生成代码...
