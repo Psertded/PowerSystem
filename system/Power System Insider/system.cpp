@@ -427,7 +427,3 @@ systembaseboot:
 //2.4 beta                                          2022/7/14  17:38   2474Lines
 //2.5 Release                                       2022/7/22  10:05   2778Lines
 //2.6 Release                                       2022/8/9
-
-
-//Licence
-//EasyX graphics library
